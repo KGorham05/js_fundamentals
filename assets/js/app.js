@@ -10,7 +10,7 @@ var greeting = `Hello ${name} nice to meet you`; // "Hello " + name + " nice to 
 // number
 var age = 21;
 // array
-var kids = ["Leo", "Adnan"];
+var kids = ["Leonardo", "Adnan"];
 // object
 var webDevClass = {
   teacher: "Nate",
@@ -27,3 +27,4 @@ console.log(webDevClass.teacher)
 webDevClass.sayHello();
 // declare function
 // execute function
+// for loop
